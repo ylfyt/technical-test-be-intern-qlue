@@ -8,6 +8,7 @@ def getShape(n):
     
     return None
 
-n = int(input())
+if __name__ == '__main__':
+    n = int(input())
 
-print(getShape(n))
+    print(getShape(n))

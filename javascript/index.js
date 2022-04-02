@@ -40,6 +40,6 @@ const listener = (req, res) => {
 };
 
 const server = http.createServer(listener);
-server.listen(3000, 'localhost', () => {
-	console.log('Server is listening on port 3000');
+server.listen(3333, 'localhost', () => {
+	console.log('Server is listening on port 3333');
 });
