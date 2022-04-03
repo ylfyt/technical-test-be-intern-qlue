@@ -1,6 +1,6 @@
 # Technical Test Back End Developer Intern Qlue
 
--   Nama : Yudi Alfayat
+-   Name : Yudi Alfayat
 -   Email : yalfayat@gmail.com
 
 ### Part 2 : Directory
